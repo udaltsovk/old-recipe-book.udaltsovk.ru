@@ -9,7 +9,7 @@
 in
   with pkgs;
     mkShell {
-      name = "recipe-book.udaltsovk.ru";
+      name = "old-recipe-book.udaltsovk.ru";
       buildInputs = packages;
       nativeBuildInputs = nativePackages;
 
